@@ -2,7 +2,7 @@
 
 New Midi Controller Extensions for Bitwig 5.0 - 5.1.x
 
-launchkey mk4, launchkey mini mk4, etc
+Launchkey MK4, Launchkey Mini MK4, etc
 
 ##
 ### Link Download
