@@ -27,16 +27,28 @@ __
 #### MAC :
 __
 
+##
 
 Bitwig 5.0
+
 Bitwig 5.0.4
+
 Bitwig 5.0.7
+
 Bitwig 5.0.9
+
 Bitwig 5.0.11
+
 Bitwig 5.1
+
 Bitwig 5.1.2
+
 Bitwig 5.1.3
+
 Bitwig 5.1.6
+
 Bitwig 5.1.7
+
 Bitwig 5.1.8
+
 Bitwig 5.1.9
