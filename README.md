@@ -1,6 +1,6 @@
-# Bitwig 5.1.x Extensions
+# Bitwig 5.0 - 5.1.x Extensions
 
-New Midi Controller Extensions for Bitwig 5.1.x
+New Midi Controller Extensions for Bitwig 5.0 - 5.1.x
 
 launchkey mk4, launchkey mini mk4, etc
 
@@ -19,7 +19,7 @@ https://drive.google.com/file/d/10vT3mB4NpPFyR7mAWZhdQ_Tk-q5sWqXz/view?usp=drive
 ### Download "Controllers.bwextension", copy and replace to folder:
 
 #### Windows :
-C:\Program Files\Bitwig Studio\5.1.x\resources\Extensions
+C:\Program Files\Bitwig Studio\5.x\resources\Extensions
 
 #### Linux :
 __
